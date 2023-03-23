@@ -1,0 +1,9 @@
+site_name: El Amo del Calabozo
+site_url: https://github.com/Marius3491/elamodelcalabozo
+nav:
+  - Home: index.md
+  - Jugadores: jugador.md
+  - DungeonMaster: master.md
+  - Monstruos: monstruo.md
+
+
